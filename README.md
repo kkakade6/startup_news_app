@@ -26,24 +26,26 @@ It features categories, search, and personalized news feeds. This app is built w
 git clone https://github.com/kkakade6/startup_news_app.git
 
 
-2. Navigate to the project folder:
+# Navigate to the project folder:
 
 cd startup_news_app
 
 
-3. Install dependencies:
+# Install dependencies:
 
 flutter pub get
 
 
-4. Run the app:
+# Run the app:
 
 flutter run
+
+Demo Access
 
 You can try the demo version of the app without an API key.
 https://drive.google.com/file/d/12PYBZHZYP2u0l3kBKCQfEFRr_riVtjNQ/view
 
-API Key
+#API Key
 
 The app requires a NewsAPI key and Open AI API key for full access.
 
