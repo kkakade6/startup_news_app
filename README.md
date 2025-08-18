@@ -1,20 +1,56 @@
-<<<<<<< HEAD
-# startup_news_app
+# Startup News App
 
-A new Flutter project.
+A Flutter-based mobile app providing curated startup and business news with demo access.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Description
 
-A few resources to get you started if this is your first Flutter project:
+Startup News App delivers the latest startup and business news in a simple, easy-to-read format.  
+It features categories, search, and personalized news feeds. This app is built with Flutter and Dart.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# startup_news_app
->>>>>>> 158ebbe53e6dda0e6f9b158e0af945a23dfb21b1
+## Features
+
+- Demo mode available for testing without API key
+- Lightweight and fast mobile UI
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/kkakade6/startup_news_app.git
+
+
+2. Navigate to the project folder:
+
+cd startup_news_app
+
+
+3. Install dependencies:
+
+flutter pub get
+
+
+4. Run the app:
+
+flutter run
+
+You can try the demo version of the app without an API key.
+https://drive.google.com/file/d/12PYBZHZYP2u0l3kBKCQfEFRr_riVtjNQ/view
+
+API Key
+
+The app requires a NewsAPI key and Open AI API key for full access.
+
+Store your key in env file (this file is gitignored to protect your API key).
+
+Contributing
+
+Contributions are welcome!
+
+Please create a new branch for any feature or bugfix before submitting a pull request.
